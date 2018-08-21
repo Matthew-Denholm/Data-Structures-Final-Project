@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Link
+comment0.text=\r\n\ Name\:\ doublyLinked.java\r\n\ demonstrates\ doubly-linked\ lists.\r\n\ @author\ (Matthew\ Denholm,\ Anthony\ Marquez,\ Devon\ Vierthaler)\r\n\ @version\ (10/17/17)\r\n
+comment1.params=plane
+comment1.target=Link(Planes)
+comment2.params=
+comment2.target=void\ displayLink()
+numComments=3

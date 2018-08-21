@@ -1,0 +1,36 @@
+Brand: Yatch 
+
+Model: XL3000 
+
+Selling Price: 6.5E8 
+
+Standard Price: 7.0E8 
+
+Commission: 120000.0 
+
+Color: White 
+
+Status: New 
+
+Mileage: 0 
+
+Year: 2017 
+
+Brand: Pirated 
+
+Model: Dingy 
+
+Selling Price: 10.0 
+
+Standard Price: 20.0 
+
+Commission: 5.0 
+
+Color: Brown 
+
+Status: Used 
+
+Mileage: 200 
+
+Year: 2005 
+
